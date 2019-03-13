@@ -1,4 +1,29 @@
 # Configure terminal appearence
+
+echo "           #,,*#,         "
+echo "          //,,,./(        "
+echo "         &#/*/#,/         "
+echo "         ////,.,,         Curiouser and curiouser..."
+echo "        ****////      /   "
+echo "       /(//*..**..# ,*    "
+echo "       (**((/.  ./(*(     "
+echo " *     **(/((,,,,//(      "
+echo "  (/***(  (##,,/          "
+echo "       (((((..  .#        "
+echo "      (((((,.    .        "
+echo "     ((((((..    ..       "
+echo "    ((((((/..    ../      "
+echo "   &(((((/(...   ...      "
+echo "   ((((((/,....  ..,,     "
+echo "  (/((((//.,,..  ...,     "
+echo "  (/((((//...... ./(/%    "
+echo "  /((((///(((//**//(//    "
+echo "      (///(((//***(       "
+echo "          /* (*           "
+echo "           . .            "
+echo "           . .            "
+echo "           & &            "
+
 parse_git_branch() {
   git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
