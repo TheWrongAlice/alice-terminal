@@ -1,1 +1,1 @@
-# peppermint-terminal
+# alice-terminal
